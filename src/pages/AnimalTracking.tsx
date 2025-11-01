@@ -23,7 +23,7 @@ const AnimalTracking = () => {
   const [trackedAnimals, setTrackedAnimals] = useState<AnimalGPS[]>([
     {
       id: "1",
-      name: "Bruno",
+      name: "TOMY",
       species: "Street Dog",
       tagId: "GPS-001",
       lat: 13.0827,
@@ -39,7 +39,7 @@ const AnimalTracking = () => {
     },
     {
       id: "2",
-      name: "Mia",
+      name: "BROWNY",
       species: "Street Dog",
       tagId: "GPS-002",
       lat: 11.0168,
@@ -72,7 +72,7 @@ const AnimalTracking = () => {
     {
       id: "4",
       name: "Luna",
-      species: "Street Dog",
+      species: "Street cat",
       tagId: "GPS-004",
       lat: 10.7905,
       lng: 78.7047,
